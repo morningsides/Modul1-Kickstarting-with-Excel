@@ -1,8 +1,9 @@
 ### Challenge
 ## Outcomes Based on Goal
 ![alt text](outcomes-based-on-goal.png "Title")
-- When the number of Kickstarters is less than 1000 we have around a 60% success rate that eventually trends down to 0 when we get to 5000.
-- Since we only had one legitimate row of data to work with (our total plays/projects was just above 1000) we don't have much data for the percentage of how many plays were canceld so that data may be incomplete. 
+- When the cost of Kickstarters is less than $1000 we have a fairly high success rate (almost 80%)
+- The success and failure rate of Kickstarters is even at 50% when the Kickstarter value is between $15000 to $19999.
+- Almost 90% of Kickstarters above $50000 fail
 
 
 ![alt text](outcomes-based-on-launch-date.png "Title")
